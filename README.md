@@ -1,6 +1,6 @@
 # Basic-memory-game
 
-Basic memory game JS
+Basic memory game JS. Just simple and crisp project. 
 
 Simple memory game based on:
 
@@ -12,11 +12,14 @@ Requirements: Vanilla JS, CSS3 and HTML5.
 Photos from Unsplash and random Google search.
 
 Please check scrnshots below
+![game start](https://github.com/MTrawinska/Memory-Game-Basic/blob/master/static/img/1.png)
 
+![game start](https://github.com/MTrawinska/Memory-Game-Basic/blob/master/static/img/2.png)
 
+![game start](https://github.com/MTrawinska/Memory-Game-Basic/blob/master/static/img/3.png)
 
+**CODE ON DEMAND**
 
-Please contact me to see code >>> code on demand. 
+Please contact me to see the code.  
 
-Just simple and crisp project. 
 
