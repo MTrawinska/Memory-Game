@@ -27,6 +27,6 @@ End of game
 
 **!CODE ON DEMAND**
 
-Please contact me to see the code.  
+Interested? Please contact me to see the code  
 
 
