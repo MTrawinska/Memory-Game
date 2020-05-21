@@ -18,7 +18,7 @@ Please check scrnshots below
 
 ![game start](https://github.com/MTrawinska/Memory-Game-Basic/blob/master/static/img/3.png)
 
-**CODE ON DEMAND**
+**!CODE ON DEMAND**
 
 Please contact me to see the code.  
 
