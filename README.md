@@ -11,7 +11,10 @@ Simple memory game based on:
 Requirements: Vanilla JS, CSS3 and HTML5.
 Photos from Unsplash and random Google search.
 
-Please check [LIVE VERSION](https://mtrawinska.github.io/Memory-Game-Basic/). 
+Please check scrnshots below
+
+
+
 
 Please contact me to see code >>> code on demand. 
 
